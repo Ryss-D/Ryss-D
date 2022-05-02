@@ -6,7 +6,7 @@ Mobile developer, Golang wannabe and cyber security enthusiast. (Also a python s
 
 I have been learning to code from three years, going throught fast passings for so many languages and tecnologies and learning chunks of everything. 
 </br>
-At present i am focusing my learning on three main programming languages, flutter for all inclusive creator \*\* be able deliver code to every device\*\*, golang for be a cool, fast and powerful kid who can control the cloud powers \*\*be able to deliver code to every where\*\* and python to script like a movie hacker and be able to pass two days automating tasks who manually would take 15s for the happiness of code \*\*be able to redignify the human tasks\*\* .
+At present i am focusing my learning on three main programming languages, flutter being a all device inclusive creator \*\*be able deliver code to every device\*\*, golang for be a cool, fast and powerful kid who can control the cloud powers \*\*be able to deliver code to every where\*\* and python to script like a movie hacker and be able to pass two days automating tasks who manually would take 15s for the happiness of code \*\*be able to redignify the human tasks\*\*.
 </br>
 As side "nerd hobbies" i enjoy learning about cyber security (with no specific path and a lot of POC's) and exploring dron programming (with so many crashes)
 
