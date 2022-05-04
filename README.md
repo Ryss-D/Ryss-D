@@ -14,6 +14,7 @@ As side "nerd hobbies" i enjoy learning about cyber security (with no specific p
 *   ✉️  You can contact me at [Ryss-D@protonmail.com](mailto:Ryss-D@protonmail.com)
 ### Skills
 <p align="left">
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixlok.com%2Fimages%2Fflutter-logo-png-image-free-download%2F&psig=AOvVaw1QKypov9v0Mq5E0Lgl2yXb&ust=1651709048693000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCLCyy-vFxPcCFQAAAAAdAAAAABAJ" width="36" height="36" alt="Flutter" /></a>
   <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
