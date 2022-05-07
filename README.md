@@ -1,4 +1,4 @@
-Hi 🖖 My name is Sebastian Yepes
+Hi 🖖 My name is Sebastian
 ================================
 
 Mobile developer, Golang wannabe and cyber security enthusiast. (Also a python secret lover)
